@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=+5 Pin=C67B-1
+Removed Pin From Net: NetName=GND Pin=C67B-2
+Removed Pin From Net: NetName=GND_S Pin=C68B-1
+Removed Pin From Net: NetName=+3P3_S Pin=C68B-2
+Removed Pin From Net: NetName=+5 Pin=C69B-1
+Removed Pin From Net: NetName=GND Pin=C69B-2
+Removed Pin From Net: NetName=GND Pin=C71B-1
+Removed Pin From Net: NetName=GND Pin=C72B-1
+Removed Pin From Net: NetName=+5 Pin=J4B-1
+Removed Pin From Net: NetName=GND Pin=J4B-4
+Removed Pin From Net: NetName=+3P3_S Pin=J5-1
+Removed Pin From Net: NetName=GND_S Pin=J5-2
+Removed Pin From Net: NetName=RS232_TX1 Pin=R29A-2
+Removed Pin From Net: NetName=RS232_TX2 Pin=R29B-2
+Removed Pin From Net: NetName=RS232_RX1 Pin=R32A-2
+Removed Pin From Net: NetName=RS232_RX2 Pin=R32B-2
+Removed Pin From Net: NetName=SENSOR_SCL Pin=R48-2
+Removed Pin From Net: NetName=SENSOR_SDA Pin=R49-2
+Removed Pin From Net: NetName=+3P3_S Pin=U9B-1
+Removed Pin From Net: NetName=GND_S Pin=U9B-4
+Removed Pin From Net: NetName=GND Pin=U9B-5
+Removed Pin From Net: NetName=+5 Pin=U9B-8
+Removed Pin From Net: NetName=GND Pin=U10B-15
+Removed Pin From Net: NetName=+5 Pin=U10B-16
+Change Component Designator: OldDesignator=C67A NewDesignator=C67
+Change Component Designator: OldDesignator=C68A NewDesignator=C68
+Change Component Designator: OldDesignator=C69A NewDesignator=C69
+Change Component Designator: OldDesignator=C70A NewDesignator=C70
+Change Component Designator: OldDesignator=C71A NewDesignator=C71
+Change Component Designator: OldDesignator=C72A NewDesignator=C72
+Change Component Designator: OldDesignator=C73A NewDesignator=C73
+Change Component Designator: OldDesignator=J4A NewDesignator=J4
+Change Component Designator: OldDesignator=R29A NewDesignator=R29
+Change Component Designator: OldDesignator=R32A NewDesignator=R32
+Change Component Designator: OldDesignator=R33A NewDesignator=R33
+Change Component Designator: OldDesignator=R34A NewDesignator=R34
+Change Component Designator: OldDesignator=U9A NewDesignator=U9
+Change Component Designator: OldDesignator=U10A NewDesignator=U10
+Added Component: Designator=C140(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C141(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=J16(XH2.54-4-DIP)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=R90(RES-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "ERJ-3EKF22R0V"; VariantName = "[No Variations]"
+Added Component: Designator=R91(RES-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "ERJ-3EKF22R0V"; VariantName = "[No Variations]"
+Added Component: Designator=U25(SO8)
+Add component (AddParameter): Name = "PN"; Value = "ADUM1201CRZ-RL7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C140-1
+Added Pin To Net: NetName=GND Pin=C140-2
+Added Pin To Net: NetName=GND_S Pin=C141-1
+Added Pin To Net: NetName=+3P3_S Pin=C141-2
+Added Pin To Net: NetName=GND_S Pin=J5-1
+Added Pin To Net: NetName=+3P3_S Pin=J5-2
+Added Pin To Net: NetName=+5 Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-4
+Added Pin To Net: NetName=RS232_RX1 Pin=R29-2
+Added Pin To Net: NetName=RS232_TX1 Pin=R32-2
+Added Pin To Net: NetName=SENSOR_SDA Pin=R48-2
+Added Pin To Net: NetName=SENSOR_SCL Pin=R49-2
+Added Pin To Net: NetName=RS232_RX2 Pin=R90-2
+Added Pin To Net: NetName=RS232_TX2 Pin=R91-2
+Added Pin To Net: NetName=+3P3_S Pin=U25-1
+Added Pin To Net: NetName=GND_S Pin=U25-4
+Added Pin To Net: NetName=GND Pin=U25-5
+Added Pin To Net: NetName=+5 Pin=U25-8
+Change Net Name : Old Net Name=NetC70A_1 New Net Name=NetC70_1
+Change Net Name : Old Net Name=NetC70A_2 New Net Name=NetC70_2
+Change Net Name : Old Net Name=NetC71A_2 New Net Name=NetC71_2
+Change Net Name : Old Net Name=NetC72A_2 New Net Name=NetC72_2
+Change Net Name : Old Net Name=NetC73A_1 New Net Name=NetC73_1
+Change Net Name : Old Net Name=NetC73A_2 New Net Name=NetC73_2
+Change Net Name : Old Net Name=NetR29A_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR32A_1 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NetR33A_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR34A_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetU9A_6 New Net Name=NetU9_6
+Change Net Name : Old Net Name=NetU9A_7 New Net Name=NetU9_7
+Change Net Name : Old Net Name=RS232_RXA New Net Name=RS232_RX1
+Change Net Name : Old Net Name=RS232_TXA New Net Name=RS232_TX1
+Added Pin To Net: NetName=NetR90_1 Pin=R90-1
+Added Pin To Net: NetName=NetR90_1 Pin=U25-2
+Added Net: Name=NetR90_1
+Added Pin To Net: NetName=NetR91_1 Pin=R91-1
+Added Pin To Net: NetName=NetR91_1 Pin=U25-3
+Added Net: Name=NetR91_1
+Added Pin To Net: NetName=NetU10_9 Pin=U10-9
+Added Pin To Net: NetName=NetU10_9 Pin=U25-7
+Added Net: Name=NetU10_9
+Added Pin To Net: NetName=NetU10_10 Pin=U10-10
+Added Pin To Net: NetName=NetU10_10 Pin=U25-6
+Added Net: Name=NetU10_10
+Add Net: Net with name "RS232_RX2" already exists
+Add Net: Net with name "RS232_TX2" already exists
+Added Member To Class: ClassName=RS232 Member=Component C140 100nF/25V
+Added Member To Class: ClassName=RS232 Member=Component C141 100nF/25V
+Added Member To Class: ClassName=RS232 Member=Component J16 Header4
+Added Member To Class: ClassName=RS232 Member=Component R90 22R/1%
+Added Member To Class: ClassName=RS232 Member=Component R91 22R/1%
+Added Member To Class: ClassName=RS232 Member=Component U25 ADUM1201

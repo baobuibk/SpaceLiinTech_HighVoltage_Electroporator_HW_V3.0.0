@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CALL_SW Pin=U7-27
+Removed Pin From Net: NetName=CALL_HV Pin=U7-28
+Added Pin To Net: NetName=CALL_HV Pin=U7-27
+Added Pin To Net: NetName=CALL_SW Pin=U7-28

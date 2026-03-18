@@ -1,0 +1,18 @@
+Added Component: Designator=C29A(Tantalum 1210)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "TCNT476M016R0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C29B(Tantalum 1210)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "TCNT476M016R0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12_S Pin=C29A-1
+Added Pin To Net: NetName=GND_S Pin=C29A-2
+Added Pin To Net: NetName=+12_S Pin=C29B-1
+Added Pin To Net: NetName=GND_S Pin=C29B-2
+Added Member To Class: ClassName=VOLT_SW_50V Member=Component C29A (C29) 47uF/16V
+Added Member To Class: ClassName=VOLT_SW_300V Member=Component C29B (C29) 47uF/16V

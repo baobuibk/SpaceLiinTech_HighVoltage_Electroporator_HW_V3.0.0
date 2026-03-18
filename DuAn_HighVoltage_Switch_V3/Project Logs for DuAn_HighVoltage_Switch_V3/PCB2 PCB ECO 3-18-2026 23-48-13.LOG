@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DIO Pin=R45-2
+Removed Pin From Net: NetName=CLK Pin=R46-2
+Removed Member From Class: ClassName=U_COMUNICATE_CON Member=R45
+Removed Member From Class: ClassName=U_COMUNICATE_CON Member=R46
+Added Pin To Net: NetName=DIO Pin=J2-3
+Added Pin To Net: NetName=CLK Pin=J2-4

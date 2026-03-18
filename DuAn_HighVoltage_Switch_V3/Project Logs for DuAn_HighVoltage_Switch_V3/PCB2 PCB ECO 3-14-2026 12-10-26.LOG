@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=UART4_RX Pin=JP6-1
+Removed Pin From Net: NetName=USART1_RX Pin=JP6-2
+Removed Pin From Net: NetName=USART3_RX Pin=JP6-4
+Removed Pin From Net: NetName=USART2_RX Pin=JP6-5
+Removed Pin From Net: NetName=USART2_TX Pin=JP6-6
+Removed Pin From Net: NetName=USART3_TX Pin=JP6-7
+Removed Pin From Net: NetName=USART1_TX Pin=JP6-9
+Removed Pin From Net: NetName=UART4_TX Pin=JP6-10
+Added Pin To Net: NetName=USART1_RX Pin=JP6-1
+Added Pin To Net: NetName=USART3_RX Pin=JP6-2
+Added Pin To Net: NetName=USART2_RX Pin=JP6-4
+Added Pin To Net: NetName=UART4_RX Pin=JP6-5
+Added Pin To Net: NetName=UART4_TX Pin=JP6-6
+Added Pin To Net: NetName=USART2_TX Pin=JP6-7
+Added Pin To Net: NetName=USART3_TX Pin=JP6-9
+Added Pin To Net: NetName=USART1_TX Pin=JP6-10

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=R38-2
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=R44-2
+Change Component Comment : Designator=R38 Old Comment=5k1/1% New Comment=1k/1%
+Change Component Comment : Designator=R44 Old Comment=5k1/1% New Comment=1k/1%
+Change component parameters: Designator = "R38" ("R38"); Footprint = "RES-SMD-0603"; UniqueID = "\JMKQVZKY\HQDSNQPH" ("\JMKQVZKY\HQDSNQPH")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "RES-SMD-0603"; UniqueID = "\JMKQVZKY\BDRPUODN" ("\JMKQVZKY\BDRPUODN")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=JP7-3
+Added Pin To Net: NetName=NetJ1_1 Pin=R38-1
+Added Pin To Net: NetName=NetJ1_2 Pin=R44-1
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=+5 Pin=U6-A
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U6-K
+Added Net: Name=NetR38_2

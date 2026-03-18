@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=USB_MCU_P Pin=JP7-1
+Removed Pin From Net: NetName=USB_MCU_N Pin=JP7-2
+Removed Pin From Net: NetName=GND_S Pin=JP7-3
+Removed Pin From Net: NetName=+12 Pin=JP7-4
+Removed Pin From Net: NetName=GND Pin=JP7-5
+Removed Pin From Net: NetName=GND_S Pin=JP7-6
+Removed Pin From Net: NetName=CALL_HV Pin=JP7-7
+Removed Pin From Net: NetName=CALL_SW Pin=JP7-8
+Change Component Footprint: Designator=JP7 Old Footprint=JP4-D2T New Footprint=JP3-C2T
+Change Component Comment : Designator=JP7 Old Comment=JP4x2 New Comment=JP3x2
+Change component parameters: Designator = "JP7" ("JP7"); Footprint = "JP4-D2T"; UniqueID = "\HBSYJEOR\OHOXFZWW" ("\HBSYJEOR\OHOXFZWW")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "61300621821"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "0603W106M250XD"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "0603W106M250XD"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CN-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "0603W106M250XD"; VariantName = "[No Variations]"
+Added Component: Designator=J3(XH2.54-4-DIP)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=TVS1(SOT23-6)
+Add component (AddParameter): Name = "PN"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SO16L)
+Add component (AddParameter): Name = "PN"; Value = "ADUM3160BRWZ-RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_S Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND_S Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=CALL_SW Pin=JP7-1
+Added Pin To Net: NetName=GND_S Pin=JP7-2
+Added Pin To Net: NetName=+12 Pin=JP7-3
+Added Pin To Net: NetName=GND Pin=JP7-4
+Added Pin To Net: NetName=GND_S Pin=JP7-5
+Added Pin To Net: NetName=CALL_HV Pin=JP7-6
+Added Pin To Net: NetName=GND Pin=TVS1-2
+Added Pin To Net: NetName=GND_S Pin=U8-2
+Added Pin To Net: NetName=USB_MCU_N Pin=U8-6
+Added Pin To Net: NetName=USB_MCU_P Pin=U8-7
+Added Pin To Net: NetName=GND_S Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=+5_S Pin=C14-1
+Added Pin To Net: NetName=+5_S Pin=C32-1
+Added Pin To Net: NetName=+5_S Pin=U8-1
+Added Pin To Net: NetName=+5_S Pin=U8-3
+Added Pin To Net: NetName=+5_S Pin=U8-4
+Added Pin To Net: NetName=+5_S Pin=U8-5
+Added Net: Name=+5_S
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=+5 Pin=C31-2
+Added Pin To Net: NetName=+5 Pin=C33-2
+Added Pin To Net: NetName=+5 Pin=J3-1
+Added Pin To Net: NetName=+5 Pin=TVS1-5
+Added Pin To Net: NetName=+5 Pin=U8-12
+Added Pin To Net: NetName=+5 Pin=U8-13
+Added Pin To Net: NetName=+5 Pin=U8-14
+Added Pin To Net: NetName=+5 Pin=U8-16
+Added Net: Name=+5
+Added Pin To Net: NetName=USB_P_N Pin=J3-2
+Added Pin To Net: NetName=USB_P_N Pin=U8-11
+Added Pin To Net: NetName=USB_P_N Pin=TVS1-1
+Added Pin To Net: NetName=USB_P_N Pin=TVS1-6
+Added Net: Name=USB_P_N
+Added Pin To Net: NetName=USB_P_P Pin=J3-3
+Added Pin To Net: NetName=USB_P_P Pin=U8-10
+Added Pin To Net: NetName=USB_P_P Pin=TVS1-3
+Added Pin To Net: NetName=USB_P_P Pin=TVS1-4
+Added Net: Name=USB_P_P
+Added Class: Name=U_USB_ISOLATE
+Added Differential Pair: Name=USB_P
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_13
+Added Member To Class: ClassName=USB Member=USB_P

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=300_SEL Pin=U7-55
+Removed Pin From Net: NetName=300_BST Pin=U7-56
+Removed Pin From Net: NetName=50_BST Pin=U7-57
+Removed Pin From Net: NetName=50_SEL Pin=U7-58
+Added Pin To Net: NetName=50_SEL Pin=U7-55
+Added Pin To Net: NetName=50_BST Pin=U7-56
+Added Pin To Net: NetName=300_BST Pin=U7-57
+Added Pin To Net: NetName=300_SEL Pin=U7-58

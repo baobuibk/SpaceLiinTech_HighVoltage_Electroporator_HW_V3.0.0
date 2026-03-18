@@ -1,0 +1,22 @@
+Added Component: Designator=R92(RES-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "ERJ-3EKF22R0V"; VariantName = "[No Variations]"
+Added Component: Designator=R93(RES-SMD-0603)
+Add component (AddParameter): Name = "PN"; Value = "ERJ-3EKF22R0V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5_S Pin=JP8-1
+Change Net Name : Old Net Name=RS232_RX1 New Net Name=232_RX1
+Change Net Name : Old Net Name=RS232_TX1 New Net Name=232_TX1
+Added Pin To Net: NetName=232_RX2 Pin=J16-3
+Added Pin To Net: NetName=232_RX2 Pin=R93-1
+Added Net: Name=232_RX2
+Added Pin To Net: NetName=232_TX2 Pin=J16-2
+Added Pin To Net: NetName=232_TX2 Pin=R92-1
+Added Net: Name=232_TX2
+Added Pin To Net: NetName=NetR92_2 Pin=R92-2
+Added Pin To Net: NetName=NetR92_2 Pin=U10-7
+Added Net: Name=NetR92_2
+Added Pin To Net: NetName=NetR93_2 Pin=R93-2
+Added Pin To Net: NetName=NetR93_2 Pin=U10-8
+Added Net: Name=NetR93_2
+Added Member To Class: ClassName=RS232 Member=Component R92 22R/1%
+Added Member To Class: ClassName=RS232 Member=Component R93 22R/1%
+Added Member To Class: ClassName=RS232 Member=Component U25 ADUM1201

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+5_A Pin=JP5-2
+Removed Pin From Net: NetName=+3P3_S Pin=JP5-3
+Removed Pin From Net: NetName=GND_S Pin=JP5-4
+Removed Pin From Net: NetName=AGND Pin=JP5-5
+Added Pin To Net: NetName=+3P3_S Pin=JP5-2
+Added Pin To Net: NetName=+5_A Pin=JP5-3
+Added Pin To Net: NetName=AGND Pin=JP5-4
+Added Pin To Net: NetName=GND_S Pin=JP5-5
